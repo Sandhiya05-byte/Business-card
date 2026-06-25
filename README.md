@@ -44,6 +44,7 @@ A digital business card displaying:
 
 - 👩 Sandhiya R
 - 💻 Frontend Developer
+- Full Stack Developer
 - 📍 Coimbatore, Tamil Nadu
 
 ## 💡 Future Improvements
